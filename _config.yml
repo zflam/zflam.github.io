@@ -19,10 +19,6 @@ copyright:
 google-analytics:
   id:               ""
 
-# Disqus
-disqus:
-  id:               "zflam"
-
 # URL
 url:                "https://zflam.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
